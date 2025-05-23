@@ -76,7 +76,7 @@ cap = cv2.VideoCapture(0)
 6.How to Run
 
 - Type python main2.py in your terminal
--Click Start Detection to begin and Exit to close the app. The app will alert you if:
+-Click Start Detection to begin and Exit to close. It will alert you if:
 -You close your eyes for more than 5 seconds
 -Your face is not visible for more than 7 seconds
 
