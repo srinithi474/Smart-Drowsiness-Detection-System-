@@ -1,4 +1,4 @@
-using Python, OpenCV, dlib, and PyQt5
+# Smart Drowsiness Detection System using Python, OpenCV, dlib, and PyQt5
 
 A real-time smart drowsiness detection system that alerts users when they are drowsy or inattentive. It uses facial landmarks to detect blinking and eye closure based on EAR (Eye Aspect Ratio) and includes a simple GUI built with PyQt5.
 
