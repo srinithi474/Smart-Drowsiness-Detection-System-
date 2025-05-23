@@ -71,6 +71,7 @@ cap = cv2.VideoCapture(0)
 -Search beep.mp3 in your browser then ownload the beep alert sound file (or use your own named `beep.mp3`):  
 
  > Rename it to `beep.mp3` if needed and put it in the same folder as your Python script.
+-I upload the dlib whl file.If you want this gui run without error you should download the dlib whl. Otherwise it shows the error. 
 
 
 6.How to Run
