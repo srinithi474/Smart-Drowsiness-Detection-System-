@@ -63,14 +63,13 @@ cap = cv2.VideoCapture(0)
 5. Required files and downloads:
 
 - Download the shape predictor `.dat` file:  
-  [Download shape_predictor_68_face_landmarks.dat](https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2)
+  [Download shape_predictor_68_face_landmarks.dat]("https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2")
 
   > After downloading, extract the `.dat` file and place it in your project directory.
 
 - Download the beep alert sound file (or use your own named `beep.mp3`):  
-  [Download beep.mp3](https://www.soundjay.com/button/beep-07.wav)
 
-  > Rename it to `beep.mp3` if needed and put it in the same folder as your Python script.
+ > Rename it to `beep.mp3` if needed and put it in the same folder as your Python script.
 
 
 6.How to Run
